@@ -1,27 +1,24 @@
 ﻿using System;
 
-namespace Korting
+namespace Boodschappen
 {
     class Program
     {
         static void Main(string[] args)
         {
-            const int kortingsLeeftijd = 20;
-            Console.Write("Wat is uw leeftijd? ");
-            int leeftijd = Convert.ToInt16(Console.ReadLine());
-            Console.Write("Heeft u een klantenkaart (ja/nee): ");
-            string extraKorting = Console.ReadLine();
+            string product = "Koffie";
+            int aantal;
+            float prijsExclBtwK = 3.95f;
 
-            if (leeftijd > kortingsLeeftijd && extraKorting == "ja")
-            {
-                Console.WriteLine("U komt in aanmerking voor een korting!");
-            }
-            else
-            {
-                Console.WriteLine("Helaas geen korting.");
-            }
+            float btwPercentage = 0.21f;
 
-            Console.ReadLine();
+            Console.WriteLine("Een pakje koffie kost " + prijsExclBtwK + " ex btw.");
+
+            aantal = Convert.ToInt32(Console.ReadLine());
+            float totaalPrijs = aantal * prijsExclBtw + (aantal * prijsExclBtw) * btwPercentage;
+
+            Console.WriteLine(aantal + " pakken " + product + " kost in totaal " + totaalPrijs);
+
         }
     }
 }
