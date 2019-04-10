@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief3\lesbrief3\bin\Debug\lesbrief3.exe.config
+C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief3\lesbrief3\bin\Debug\lesbrief3.exe
+C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief3\lesbrief3\bin\Debug\lesbrief3.pdb
+C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief3\lesbrief3\obj\Debug\lesbrief3.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief3\lesbrief3\obj\Debug\lesbrief3.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief3\lesbrief3\obj\Debug\lesbrief3.exe
+C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief3\lesbrief3\obj\Debug\lesbrief3.pdb
