@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("lesbrief4")]
+[assembly: AssemblyTitle("Lesbrief-4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("lesbrief4")]
+[assembly: AssemblyProduct("Lesbrief-4")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9e1e2a6d-9677-4d23-bf5c-8a6c41459a7c")]
+[assembly: Guid("83236db2-a55e-4882-b3bd-2ca30ced7d2c")]
 
 // Version information for an assembly consists of the following four values:
 //
