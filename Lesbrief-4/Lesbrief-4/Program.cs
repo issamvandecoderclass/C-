@@ -6,15 +6,21 @@ namespace GuessGame
     {
         static void Main(string[] args)
         {
-            string secretWord = "informatica";
-            string guessedWord = "";
-            int aantal = 0;
+            for (int aantal = 0; aantal < 3; aantal++)
+            {
+                string secretWord = "informatica";
+                string guessedWord = "";
 
-            while (aantal < 3)
-            {    
-            Console.Write("Enter guess: ");
-            guessedWord = Console.ReadLine();
-            aantal = aantal + 1;
+                if (guessedWord != secretWord)
+                {
+                    Console.Write("Enter guess: ");
+                    guessedWord = Console.ReadLine();
+                }
+                else
+                {
+                    Console.WriteLine("You've won!");
+                    Console.ReadLine();
+                }
             }
         }
     }
