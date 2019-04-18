@@ -7,7 +7,7 @@ namespace Boodschappen
         static void Main(string[] args)
         {
             string product = "koffie";
-            string product2 = "thee"
+            string product2 = "thee";
             string product3 = "sigaretten";
             string product4 = "koekjes";
             string product5 = "mandarijnen";
