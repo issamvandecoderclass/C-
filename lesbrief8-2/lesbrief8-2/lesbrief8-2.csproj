@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53387766-C92F-4DC7-B4B7-2647658BCA15}</ProjectGuid>
+    <ProjectGuid>{2B032386-709B-4AC9-9A70-EACC643297B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lesbrief8_2</RootNamespace>
-    <AssemblyName>lesbrief8-2</AssemblyName>
+    <RootNamespace>lesbrief88</RootNamespace>
+    <AssemblyName>lesbrief88</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
