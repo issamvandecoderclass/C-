@@ -11,5 +11,12 @@ namespace lesbrief8
         public string Type;
         public string Model;
         public string OS;
+
+        public Mobiel(string nType, string nModel, string nOS)
+        {
+            type = nType;
+            model = nModel;
+            os = nOS;
+        }
     }
 }
