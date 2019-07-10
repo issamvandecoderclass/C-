@@ -7,14 +7,11 @@ namespace lesbrief8
 
         static void Main(string[] args)
         {
-            Mobiel mobiel1 = new Mobiel();
-            mobiel1.Type = "Iphone";
-            mobiel1.Model = "Iphone X";
-            mobiel1.OS = "Apple IOS";
+            Mobiel mobiel1 = new Mobiel("Iphone", "Iphone X", "Apple IOS");
+            Mobiel mobiel2 = new Mobiel("Galaxy", "Samsung S9", "Android");
 
-            Console.WriteLine(mobiel1.Type);
-            Console.WriteLine(mobiel1.Model);
-            Console.WriteLine(mobiel1.OS);
+            Console.WriteLine(Mobiel1);
+            Console.WriteLine(mobiel2);
 
             Console.ReadLine();
         }
