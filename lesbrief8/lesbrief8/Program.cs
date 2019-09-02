@@ -12,9 +12,6 @@ namespace lesbrief8
             mobiel1.SetPrijs(1200f);
             mobiel2.SetPrijs(850f);
 
-            boek1.prijs = 4.95f;
-            boek2.prijs = 5.95f;
-
             Console.WriteLine("Hoeveel Apple " + mobiel1.nModel + " wilt u kopen?");
             int aantalIX = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hoeveel Samsung " + mobiel2.nModel + " wilt u kopen?");

@@ -3,7 +3,7 @@
     class Mobiel
     {
         const float btw = 0.21f;
-        public float prijs = 3.95f;
+        private float prijs = 3.95f;
         private string Type;
         private string Model;
         private string OS;
